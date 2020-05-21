@@ -1,1 +1,17 @@
-
+[{
+  "uid": "1",
+  "name": "Formula 2 2020",
+  "numberGames": 15,
+  "sport": "Racing",
+  "datestart": 20200701,
+  "dateend": 20201231,
+  "past": false
+}, {
+  "uid": "2",
+  "name": "Fake 2020",
+  "numberGames": 25,
+  "sport": "Jodeling",
+  "datestart": 20201111,
+  "dateend": 20201212,
+  "past": false
+}]
