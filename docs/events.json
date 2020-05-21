@@ -14,4 +14,12 @@
   "datestart": 20201111,
   "dateend": 20201212,
   "past": false
+}, {
+  "uid": "3",
+  "name": "Jelle's Marble League",
+  "numberGames": 12,
+  "sport": "Marble racing",
+  "datestart": 20201111,
+  "dateend": 20201212,
+  "past": false
 }]
