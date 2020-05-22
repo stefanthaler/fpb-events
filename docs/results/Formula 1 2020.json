@@ -1,0 +1,13 @@
+{
+  "event_id": "Stefan",
+  "matches": [{
+    "match_id": "1",
+    "results": {
+      "8": 150,
+      "10": 170
+    },
+    "start_time": 0,
+    "end_time": 0,
+    "name": ""
+  }]
+}
