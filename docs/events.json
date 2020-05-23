@@ -11,12 +11,12 @@
   "numberGames": 25,
   "sport": "Jodeling",
   "date_start": 20201111,
-  "date_end": 20201212,
+  "date_end": 20201212
 }, {
   "uid": "3",
   "name": "Jelle's Marble League",
   "numberGames": 12,
   "sport": "Marble racing",
   "date_start": 20201111,
-  "date_end": 20201212,
+  "date_end": 20201212
 }]
