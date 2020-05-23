@@ -1,21 +1,21 @@
 [{
   "uid": "1",
   "name": "Formula 2 2020",
-  "numberGames": 15,
+  "number_games": 15,
   "sport": "Racing",
   "date_start": 20200701,
   "date_end": 20201231
 }, {
   "uid": "2",
   "name": "Fake 2020",
-  "numberGames": 25,
+  "number_games": 25,
   "sport": "Jodeling",
   "date_start": 20201111,
   "date_end": 20201212
 }, {
   "uid": "3",
   "name": "Jelle's Marble League",
-  "numberGames": 12,
+  "number_games": 12,
   "sport": "Marble racing",
   "date_start": 20201111,
   "date_end": 20201212
