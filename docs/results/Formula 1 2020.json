@@ -3,15 +3,19 @@
   "matches": [{
     "match_id": "1",
     "points": [{
+      "id":"1",
       "biddable_item_id":"8", 
       "points_awarded":15
     },{
+      "id":"2",
       "biddable_item_id":"10", 
       "points_awarded":50
     },{
+      "id":"3",
       "biddable_item_id":"18", 
       "points_awarded":17
     },{
+      "id":"4",
       "biddable_item_id":"19", 
       "points_awarded":11
     }               
