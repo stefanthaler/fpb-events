@@ -2,10 +2,21 @@
   "event_id": "Stefan",
   "matches": [{
     "match_id": "1",
-    "results": {
-      "8": 150,
-      "10": 170
-    },
+    "points": [{
+      "biddable_item_id":8, 
+      "points_awarded":15
+    },{
+      "biddable_item_id":10, 
+      "points_awarded":50
+    },{
+      "biddable_item_id":18, 
+      "points_awarded":17
+    },{
+      "biddable_item_id":19, 
+      "points_awarded":11
+    }               
+    ]
+    ,
     "start_time": 0,
     "end_time": 0,
     "name": ""
