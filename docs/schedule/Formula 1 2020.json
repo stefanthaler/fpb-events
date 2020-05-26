@@ -1,0 +1,7 @@
+[
+  {
+    "match_id":"",
+    "start_time": Int=0,
+    var end_time: Int=0,
+    var name:String=""
+]
