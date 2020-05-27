@@ -1,17 +1,21 @@
 [{
-  "id": "r_1",
-  "biddable_item_id": "f1_8",
-  "points_awarded": 15
-}, {
-  "id": "r_2",
-  "biddable_item_id": "f1_9",
-  "points_awarded": 50
-}, {
-  "id": "r_3",
-  "biddable_item_id": "f1_12",
-  "points_awarded": 17
-}, {
-  "id": "r_4",
-  "biddable_item_id": "f1_14",
-  "points_awarded": 11
+  "id":"g_1",
+  "name":"Spielberg race",
+  "points":[{
+    "id": "r_1",
+    "biddable_item_id": "f1_8",
+    "points_awarded": 15
+  }, {
+    "id": "r_2",
+    "biddable_item_id": "f1_9",
+    "points_awarded": 50
+  }, {
+    "id": "r_3",
+    "biddable_item_id": "f1_12",
+    "points_awarded": 17
+  }, {
+    "id": "r_4",
+    "biddable_item_id": "f1_14",
+    "points_awarded": 11
+  }]
 }]

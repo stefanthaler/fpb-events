@@ -1,11 +1,11 @@
 [
   {
-    "match_id":"m_1",
+    "id":"g_1",
     "start_time": "2020-05-26 12:00 GMT+02:00",
     "end_time": "2020-05-26 14:00 GMT+02:00",
      "name":"Spielberg race"
   },{
-    "match_id":"m_2",
+    "id":"g_2",
     "start_time": "2020-05-29 16:00 GMT+02:00",
     "end_time": "2020-05-29 18:00 GMT+02:00",
     "name":"Monaco race"
