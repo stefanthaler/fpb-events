@@ -1,17 +1,17 @@
 [{
-  "id": "1",
-  "biddable_item_id": "8",
+  "id": "r_1",
+  "biddable_item_id": "f1_8",
   "points_awarded": 15
 }, {
-  "id": "2",
-  "biddable_item_id": "10",
+  "id": "r_2",
+  "biddable_item_id": "f1_8",
   "points_awarded": 50
 }, {
-  "id": "3",
-  "biddable_item_id": "18",
+  "id": "r_3",
+  "biddable_item_id": "f1_8",
   "points_awarded": 17
 }, {
-  "id": "4",
-  "biddable_item_id": "19",
+  "id": "r_4",
+  "biddable_item_id": "f1_8",
   "points_awarded": 11
 }]
