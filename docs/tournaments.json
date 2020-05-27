@@ -1,19 +1,19 @@
 [{
-  "id": "1",
+  "id": "t_1",
   "name": "Formula 2 2020",
   "number_games": 15,
   "sport": "Racing",
   "date_start": "2020-07-01 16:00 GMT+02:00",
   "date_end": "2020-07-02 16:00 GMT+02:00"
 }, {
-  "id": "2",
+  "id": "t_1",
   "name": "Fake 2020",
   "number_games": 25,
   "sport": "Jodeling",
   "date_start": "2020-11-01 16:00 GMT+02:00",
   "date_end": "2020-11-31 16:00 GMT+02:00"
 }, {
-  "id": "3",
+  "id": "t_3",
   "name": "Jelle's Marble League",
   "number_games": 12,
   "sport": "Marble racing",
