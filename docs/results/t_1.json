@@ -11,19 +11,19 @@
     "id": "r_2",
     "biddable_item_id": "f1_9",
     "biddable_item_name": "Daniel Ricciardo",
-    "points_awarded": 25
+    "points_awarded": 25,
     "description":"Finished first"
   }, {
     "id": "r_3",
     "biddable_item_id": "f1_12",
     "biddable_item_name": "Faniel Kvyat",
-    "description":"Finished second"
+    "description":"Finished second",
     "points_awarded": 18
   }, {
     "id": "r_4",
     "biddable_item_id": "f1_14",
     "biddable_item_name": "Lance Stroll",
-    "description":"Fastest lap."
+    "description":"Fastest lap",
     "points_awarded": 1
   }]
 }]
