@@ -1,51 +1,143 @@
 [{
   "id": "ml_1",
-  "name": "Team Galactic",
+  "name": "Mellow Yellow",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_2",
-  "name": "Midnight Wisps",
+  "name": "Savage Speeders",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_3",
-  "name": "Thunderbolts",
+  "name": "O'rangers",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_4",
-  "name": "Hazers",
+  "name": "Jungle Jumpers",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_5",
-  "name": "Green Ducks",
+  "name": "Balls of Chaos",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_6",
-  "name": "Jungle Jumpers",
+  "name": "Midnight Wisps",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
 },{
   "id": "ml_7",
-  "name": "Mellow Yellow",
+  "name": "Crazy Cat's Eyes",
   "highest_bidder_username": "no bids yet",
-  "country_code": "UK",
+  "country_code": "",
   "sold": "NOT_SOLD",
   "highest_bidder_id": ""
-}]
+},{
+  "id": "ml_8",
+  "name": "Chocolatiers",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_9",
+  "name": "Thunderbolts",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_10",
+  "name": "Indigo Stars",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_11",
+  "name": "Pinkies",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_12",
+  "name": "Oceanics",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_13",
+  "name": "Snowballs",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_14",
+  "name": "Hornets",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_15",
+  "name": "Rojo Rollers",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_16",
+  "name": "Team Primary",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_17",
+  "name": "Jawbreakers",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_18",
+  "name": "Team Momo",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_19",
+  "name": "Bumblebees",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+},{
+  "id": "ml_20",
+  "name": "Minty Maniacs",
+  "highest_bidder_username": "no bids yet",
+  "country_code": "",
+  "sold": "NOT_SOLD",
+  "highest_bidder_id": ""
+}
+]
 
