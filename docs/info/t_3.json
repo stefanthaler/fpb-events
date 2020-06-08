@@ -1,9 +1,8 @@
-[
-  {
-    "title":"Sport",
-    "info": "This has marbles",
-  },{
-    "title":"History",
-    "info": "First held in 2020",
-  }
+[{
+  "title":"Sport",
+    "info": "This has marbles"
+},{
+  "title":"History",
+  "info": "First held in 2020"
+}
 ]
