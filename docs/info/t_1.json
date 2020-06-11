@@ -1,7 +1,7 @@
 [{
   "title":"Sport",
-  "info": "This has cars"
+  "content": "This has cars"
 }, {
   "title":"History",
-  "info": "First held in 19smething"
+  "content": "First held in 19smething"
 }]
