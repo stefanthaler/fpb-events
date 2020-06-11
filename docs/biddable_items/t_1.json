@@ -4,137 +4,157 @@
   "highest_bidder_username": "no bids yet",
   "country_code": "UK",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Mercedes"
 }, {
   "id": "f1_2",
   "name": "Valtteri Bottas",
   "highest_bidder_username": "no bids yet",
   "country_code": "FI",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Mercedes"
 }, {
   "id": "f1_3",
   "name": "Sebastian Vettel",
   "highest_bidder_username": "no bids yet",
   "country_code": "DE",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Ferrari"
 }, {
   "id": "f1_4",
   "name": "Charles Leclerc",
   "highest_bidder_username": "no bids yet",
   "country_code": "MC",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Ferrari"
 }, {
   "id": "f1_5",
-  "name": "Mac Verstappen",
+  "name": "Max Verstappen",
   "highest_bidder_username": "no bids yet",
   "country_code": "NL",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Red Bull Racing"
 }, {
   "id": "f1_6",
   "name": "Alexander Albon",
   "highest_bidder_username": "no bids yet",
   "country_code": "TH",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Red Bull Racing"
 }, {
   "id": "f1_7",
   "name": "Carlos Sainz",
   "highest_bidder_username": "no bids yet",
   "country_code": "ES",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "McLaren"
 }, {
   "id": "f1_8",
   "name": "Lando Norris",
   "highest_bidder_username": "no bids yet",
   "country_code": "UK",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "McLaren"
 }, {
   "id": "f1_9",
   "name": "Daniel Ricciardo",
   "highest_bidder_username": "no bids yet",
   "country_code": "AU",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Renault"
 }, {
   "id": "f1_10",
   "name": "Esteban Ocon",
   "highest_bidder_username": "no bids yet",
   "country_code": "FR",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Renault"
 }, {
   "id": "f1_11",
   "name": "Pierre Gasly",
   "highest_bidder_username": "no bids yet",
   "country_code": "FR",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "AlphaTauri"
 }, {
   "id": "f1_12",
-  "name": "Faniel Kvyat",
+  "name": "Daniel Kvyat",
   "highest_bidder_username": "no bids yet",
   "country_code": "RU",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "AlphaTauri"
 }, {
   "id": "f1_13",
   "name": "Sergio Perez",
   "highest_bidder_username": "no bids yet",
   "country_code": "IT",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Racing Point"
 }, {
   "id": "f1_14",
   "name": "Lance Stroll",
   "highest_bidder_username": "no bids yet",
   "country_code": "CA",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Racing Point"
 }, {
   "id": "f1_15",
   "name": "Kimi Räikkönnen",
   "highest_bidder_username": "no bids yet",
   "country_code": "FI",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Alfa Romeo Racing"
 }, {
   "id": "f1_16",
   "name": "Antonio Giovinazi",
   "highest_bidder_username": "no bids yet",
   "country_code": "IT",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Alfa Romeo Racing"
 }, {
   "id": "f1_17",
   "name": "Romain Grosjean",
   "highest_bidder_username": "no bids yet",
   "country_code": "FR",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Haas F1 Team"
 }, {
   "id": "f1_18",
   "name": "Kevin Magnussen",
   "country_code": "DK",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Haas F1 Team"
 }, {
   "id": "f1_19",
   "name": "George Russel",
   "highest_bidder_username": "no bids yet",
   "country_code": "UK",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Williams"
 }, {
   "id": "f1_20",
   "name": "Nicholas Latifi",
   "highest_bidder_username": "no bids yet",
   "country_code": "CA",
   "sold": "NOT_SOLD",
-  "highest_bidder_id": ""
+  "highest_bidder_id": "",
+  "team": "Williams"
 }]
